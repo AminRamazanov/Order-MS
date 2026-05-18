@@ -1,4 +1,4 @@
-# Order-MS
+# Order-MS(Project Status: In Progress 🚧)
 
 A microservices-based backend project built with Java and Spring Boot, focused on distributed systems, asynchronous communication, and reliability patterns.
 
